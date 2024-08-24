@@ -1,0 +1,7 @@
+.content-bg {
+    --background: rgba(0, 0, 0, 0.5);
+    background-image: var(--image-src);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
